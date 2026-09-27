@@ -1,4 +1,4 @@
-# sistema-interese-usuarios
+# sistema-interesse-usuarios
 Este projeto foi uma demonstração prática de como gerenciar dados relacionais e garantir a unicidade de informações em JavaScript.
 
 # Sistema de Gerenciamento de Interesses de Usuários
